@@ -20,3 +20,5 @@ This helps you understand what’s really happening when you do:
 \]
 
 It's like walking along a curve and **accumulating height** — a concept that's often abstract until visualized like this.
+HERE'S THE FINAL OUTPUT 
+<img width="1098" height="528" alt="image" src="https://github.com/user-attachments/assets/842e8a18-baa1-4985-9996-90c14e77a3c3" />
